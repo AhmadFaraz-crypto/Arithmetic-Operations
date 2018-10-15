@@ -1,0 +1,9 @@
+				Arithmetic Operations
+
+
+
+
+		1. Addition:       a/b + c/d = (a*d + b*c) / (b*d)
+		2. Subtraction:    a/b - c/d = (a*d - b*c) / (b*d)
+		3. Multiplication: a/b * c/d = (a*c) / (b*d)
+		4. Division:       a/b / c/d = (a*d) / (b*c)
